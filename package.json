@@ -39,7 +39,7 @@
 		"@types/common-tags": "^1.8.0",
 		"@types/js-yaml": "^3.12.5",
 		"@types/mocha": "^8.2.2",
-		"@types/moment-timezone": "^0.5.13",
+		"@types/moment-timezone": "^0.5.30",
 		"@types/ms": "^0.7.31",
 		"@types/natural": "^2.1.1",
 		"@types/node": "^15.0.1",
