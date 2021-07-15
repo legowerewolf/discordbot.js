@@ -23,7 +23,7 @@
 	"author": "legowerewolf",
 	"license": "GPL-3.0-only",
 	"dependencies": {
-		"@google-cloud/firestore": "^4.10.1",
+		"@google-cloud/firestore": "^4.13.2",
 		"common-tags": "^1.8.0",
 		"discord.js": "^12.5.3",
 		"js-yaml": "^4.1.0",
